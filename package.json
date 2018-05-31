@@ -24,7 +24,7 @@
     "type": "git",
     "url": "git@github.com:FabricElements/skeleton-carousel.git"
   },
-  "name": "name",
+  "name": "skeleton-carousel",
   "version": "0.0.1",
   "license": "BSD-3-Clause",
   "devDependencies": {
